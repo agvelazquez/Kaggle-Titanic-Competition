@@ -1,6 +1,7 @@
 # Kaggle-Titanic-Competition
 
-Composition of the work 
+Composition of the work :
+
 1 - EDA : Exploratory Data Analysis
 
 2 - Data Preprocessing, based in the EDA
